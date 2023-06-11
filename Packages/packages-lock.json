@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "com.clement.essentials.manual-compilation": {
+      "version": "https://github.com/ClemGG/com.clement.essentials.manual-compilation.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ee98714b46299f53e31e619f69ee5233f15e1f8d"
+    },
+    "com.clement.essentials.performance": {
+      "version": "https://github.com/ClemGG/com.clement.essentials.performance.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "801a7d015f0d15a809a51eed7d1b2c120c5e67a4"
+    },
+    "com.clement.essentials.trace": {
+      "version": "https://github.com/ClemGG/com.clement.essentials.trace.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9efbd1ab01565cc98bc4d44b0c2930bf7d573277"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.3",
       "depth": 1,

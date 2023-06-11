@@ -9276,7 +9276,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgYD4UpUFHyg="
 							},
-							"name": "int2 Value"
+							"name": "int2 Value",
+							"type": ""
 						}
 					]
 				},
@@ -9426,7 +9427,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgY95W5fzgEc="
 							},
-							"name": "int2 Value"
+							"name": "int2 Value",
+							"type": ""
 						}
 					]
 				},
@@ -9445,7 +9447,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgZHFPpgnz9M="
 							},
-							"name": "int2 Value"
+							"name": "int2 Value",
+							"type": ""
 						}
 					]
 				},
@@ -9473,7 +9476,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgZd6TpibS4o="
 							},
-							"name": "int2 Value"
+							"name": "int2 Value",
+							"type": ""
 						}
 					]
 				},
@@ -9501,7 +9505,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgaFQdpj/hVc="
 							},
-							"name": "int CurValue"
+							"name": "int CurValue",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9509,7 +9514,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgaFQdpj/hVc="
 							},
-							"name": "int MaxValue"
+							"name": "int MaxValue",
+							"type": ""
 						}
 					]
 				},
@@ -10109,7 +10115,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgcpuMOWevdY="
 							},
-							"name": "int Value"
+							"name": "int Value",
+							"type": ""
 						}
 					]
 				},
@@ -10137,7 +10144,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgcv9xOj+n5s="
 							},
-							"name": "int BonusPercentage"
+							"name": "int BonusPercentage",
+							"type": ""
 						}
 					]
 				},
@@ -10165,7 +10173,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIgc6MAfDLjOA="
 							},
-							"name": "int Bonus"
+							"name": "int Bonus",
+							"type": ""
 						}
 					]
 				},
@@ -12238,7 +12247,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIhxUdRiwYVQY="
 							},
-							"name": "int2 Position"
+							"name": "int2 Position",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -12246,7 +12256,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIhxUdRiwYVQY="
 							},
-							"name": "int fCost"
+							"name": "int fCost",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -12254,7 +12265,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIhxUdRiwYVQY="
 							},
-							"name": "int gCost"
+							"name": "int gCost",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -12262,7 +12274,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIhxUdRiwYVQY="
 							},
-							"name": "int hCost"
+							"name": "int hCost",
+							"type": ""
 						}
 					]
 				}

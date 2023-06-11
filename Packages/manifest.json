@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.clement.essentials.manual-compilation": "https://github.com/ClemGG/com.clement.essentials.manual-compilation.git",
+    "com.clement.essentials.performance": "https://github.com/ClemGG/com.clement.essentials.performance.git",
+    "com.clement.essentials.trace": "https://github.com/ClemGG/com.clement.essentials.trace.git",
     "com.unity.entities": "1.0.10",
     "com.unity.entities.graphics": "1.0.10",
     "com.unity.feature.2d": "1.0.0",
